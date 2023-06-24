@@ -13,34 +13,37 @@ kind style:
 
 view:
     position:
-		The center of this scene is a (subject)
-        underwater photography
+		    The center of this scene is a (subject)
+        underwater phfrecklesgolden jewelryotography
 	what:	
-		full body
+		    full body
         full body portrait
 	transition between plan:
-		smooth transitions
-		an underlying watercolor aesthetic
+      smooth transitions
+      an underlying watercolor aesthetic
 
 creature:
     Physical Appearance:
         ethnic:
             a (origin) gender
-        look:crop top
+        look:
             skin:
                 young pale skinny white
+                freckles  # tache de rousseur
             form:
-                The subject is athletic
+                athletic
                 slim waist
+                muscular
         head:
             face:
                 cute face
                 clean detailed faces
             hair:
-                striking blonde hair
+                striking blonde
                 redhead
                 ginger
         eyes:
+            mesmerizing eyes
             heterochromia brown and grey
         legs:
             Muscular legs
@@ -54,9 +57,19 @@ creature:
             few piercings in the ears
     Attitude and Emotion:
         attitude:
+            barbarian woman
             capturing the essence of both freedom and soul
+            fierce
+            loyal
+            intimidating
+            authoritative
+            striking
+            charismatic
         emotion:
-            Happy
+            happy
+            neutral
+            determined
+            strong-willed
     cloth:
         general:
             slim
@@ -66,13 +79,19 @@ creature:
             Intricate clothing
             velvet dress
         top:
+            leather jackets
             crop top
+            Long Sleeve Crop Top
         bottom:
             jeans slim
             leggings
+            cargo pants
+    accessory:
+        golden jewelry
     pose:
         general:
             standing
+            natural body posture
         bot:
             kneels
 
@@ -85,6 +104,7 @@ environment:
 
 render:
     Quality:
+        64K
         high quality
         high detail
         high definition
@@ -104,6 +124,7 @@ render:
         intricately detailed
         Shot with Canon EOS 5D Mark IV and Canon EF 16-35mm f/2.8L III USM Lens
         fractal isometrics details bioluminescens
+        depth of field
     Lighting and Color:
         luminism
         dark
