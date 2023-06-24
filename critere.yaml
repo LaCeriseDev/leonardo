@@ -10,6 +10,12 @@ kind style:
     complex
     Rough sketch
     sketch
+    stylized watercolor digital illustration
+    cute and quirky
+    fantasy art
+    t-shirt design
+    low-poly
+    intense coloration fantasy
 
 view:
     position:
@@ -18,6 +24,7 @@ view:
 	what:	
 		    full body
         full body portrait
+        Upper body portrait
 	transition between plan:
       smooth transitions
       an underlying watercolor aesthetic
@@ -29,6 +36,7 @@ creature:
         look:
             skin:
                 young pale skinny white
+                young creamy pale skinning lady
                 freckles  # tache de rousseur
             form:
                 athletic
@@ -42,7 +50,9 @@ creature:
                 striking blonde
                 redhead
                 ginger
+                hair made of fire
         eyes:
+            detailed eyes
             mesmerizing eyes
             heterochromia brown and grey
         legs:
@@ -65,6 +75,7 @@ creature:
             authoritative
             striking
             charismatic
+            lonely
         emotion:
             happy
             neutral
@@ -80,12 +91,15 @@ creature:
             velvet dress
         top:
             leather jackets
+            bardot shirt
             crop top
             Long Sleeve Crop Top
         bottom:
             jeans slim
             leggings
+            adorable elaborate skirt
             cargo pants
+            tight short shorts
     accessory:
         golden jewelry
     pose:
@@ -94,13 +108,18 @@ creature:
             natural body posture
         bot:
             kneels
+            sitting on a (thing) 
 
 environment:
     Creature Ambience:
         Featuring a level of detail that brings the character and scene to life
     Scene Ambience:
-        The environment is filled with digital screens and neon lights
-        adding to the cyberpunk atmosphere
+        time:
+            in the night
+        where:
+            Forest
+            The environment is filled with digital screens and neon lights
+            adding to the cyberpunk atmosphere
 
 render:
     Quality:
@@ -112,10 +131,11 @@ render:
         photorealistic
         hyperdetailed painting
         4k resolution concept art portrait
-        trending on artstation
+        insane quality
     Rendering Techniques:
         cinematic
         Isometric 
+        trending on artstation
         gritty
         35mm
         Medium Shot
@@ -125,19 +145,30 @@ render:
         Shot with Canon EOS 5D Mark IV and Canon EF 16-35mm f/2.8L III USM Lens
         fractal isometrics details bioluminescens
         depth of field
+        intricate detail
+        3D vector art
     Lighting and Color:
         luminism
         dark
         Studio Lighting
+        dynamic lighting
         Glowing shadows
         Analogous colors with beautiful gradients
         Luminous Studio graphics engine
         Bar lighting
+        light above the rocky cliffs
+        bokeh
+        bright
 
 reference inspiration:
     Drawing inspiration from (ref)
     WLOP
     Artgerm
+    Loish ## Lois van Baarle
+    ilya kuvshinov
+    ross tran
+    Martina Fačková
+    Prywinko art
 
 spirituality of the image:
     She is seen amidst her high-tech environment
